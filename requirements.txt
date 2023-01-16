@@ -1,0 +1,11 @@
+polyglot==16.7.4
+ipykernel==6.1.0
+ipython-genutils==0.2.0
+numpy==1.24.1
+scipy==1.10.0
+matplotlib==3.6.3
+matplotlib-inline==0.1.6
+seaborn==0.12.2
+scikit-learn==1.2.0
+tqdm==4.64.1
+requests==2.28.2
